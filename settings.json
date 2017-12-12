@@ -5,11 +5,17 @@
   "editor.occurrencesHighlight": false,
   "workbench.colorTheme": "One Dark Pro Vivid",
   "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
   "window.zoomLevel": 0,
   "editor.snippetSuggestions": "top",
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
   "explorer.decorations.badges": false,
+  "files.associations": {
+    "*.css": "postcss"
+  },
   "workbench.colorCustomizations": {
     "sideBar.background": "#1f1f1f",
     "sideBar.foreground": "#A7AFBC",
@@ -20,6 +26,10 @@
     "editor.selectionHighlightBackground": "#ffbb0017",
     "editor.inactiveSelectionBackground": "#135564"
   },
+
+  //  "[javascript]": {
+  //     "editor.formatOnSave": true
+  // },
   ////////////////////////////////////////////////
   // TEXT MATE STYLES
   ///////////////////////////////////////////////
